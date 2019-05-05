@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahzuevoole.codeforhamburg.org/sitemap.xml
